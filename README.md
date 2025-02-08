@@ -24,6 +24,5 @@
 <p><a target="_blank" href="https://twitter.com/pradeep_Raje" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/pradeeptraje" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/rajepradeep" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saineox&show_icons=true&locale=en" alt="saineox" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saineox&" alt="saineox" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saineox&show_icons=true&locale=en&layout=compact" alt="saineox" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saineox" alt="saineox" /></a></p>
