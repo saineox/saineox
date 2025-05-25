@@ -28,5 +28,5 @@
   
 <!--p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saineox" alt="saineox" /></a>
 </p-->
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saineox&theme=monokai" alt="saineox" /></a></p>
+  <p><a href="https://github.com/saineox"><img src="https://github-profile-trophy.vercel.app/?username=saineox&theme=monokai" alt="saineox" /></a></p>
 
