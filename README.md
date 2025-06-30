@@ -16,6 +16,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+</br>
+[![Open Source Contributor](https://img.shields.io/badge/Contributor-aws_devops_zero_to_hero-brightgreen)](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/pull/145)
+</br>
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/pradeeptraje_devops-infrastructureascode-terraform-activity-7175519549453201408-wPS5?utm_source=share&utm_medium=member_desktop">Leveraging Terraform, we've just accomplished something remarkable in DevOps!</a></li>
