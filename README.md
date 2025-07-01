@@ -16,7 +16,7 @@
 > *"The only way to do great work is to love what you do."* – Steve Jobs
 
 I'm a passionate technologist blending creativity with technical expertise to build seamless cloud solutions. My journey includes:
-- Crafting **135+ landing pages** as a UI Developer
+- Crafting **205+ landing pages** as a UI Developer
 - Mastering DevOps to accelerate software delivery
 - Building scalable solutions with AWS, Docker, and Kubernetes
 - Automating workflows with Jenkins and infrastructure as code
@@ -75,7 +75,31 @@ As a top 1% GitHub contributor, I've made significant impact through:
 - Community knowledge sharing
 - Mentoring fellow developers
 - Infrastructure optimization contributions
+# Contribution by Pradeep Kadan
 
+Hello! I'm Pradeep Kadan, a developer passionate about cloud technologies and open source. I'm excited to make my second contribution to this project, continuing my open source journey.
+
+## Contribution History
+
+### ✅ AWS DevOps Documentation (Merged)
+- **Repository**: iam-veeramalla/aws-devops-zero-to-hero  
+- **PR #145**: Merged May 24, 2025  
+- **Key Improvements**:  
+  • Added AWS Route 53 interview Q&A documentation  
+  • Created `Quick-Interview-Recap.md` summary  
+  • Structured AWS CloudFormation overview  
+  • Optimized project folder organization  
+
+### 🚀 Current Contribution
+- **Repository**: firstcontributions/firstcontributions  
+- **PR #99754**: Add to contributors.md  
+- **Key Highlights**:  
+  • Followed project contribution guidelines  
+  • Maintained clean commit history  
+  • Passed all CI verification checks  
+  • Focused change (+33 -1)
+
+  
 **Notable Contribution**:  
 [![AWS DevOps Zero to Hero](https://img.shields.io/badge/Contribution-AWS_DevOps_Zero_to_Hero-brightgreen)](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/pull/145)  
 Improved infrastructure automation patterns used by 10k+ developers
