@@ -1,7 +1,12 @@
-<h1 align="center">
-  Hey, I'm Pradeep Kadam 👋<br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Cloud+Architect+%7C+AI+Tooling+Contributor;Building+Scalable+Infrastructure+%26+Agent+Ecosystems;Open+Source+Contributor+to+7.8k%E2%AD%90+Projects" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pradeep%20Kadam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Tooling%20Contributor&descSize=18&descAlignY=55&descColor=58A6FF" alt="Header" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Infrastructure+%26+Agent+Ecosystems;Open+Source+Contributor+to+7.8k%E2%AD%90+Projects;DevOps+%7C+Cloud+%7C+AI+Tooling+%7C+Open+Source" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/vudovn/ag-kit">
@@ -100,26 +105,7 @@ Lately, I've been contributing to **AI agent tooling** — building skills, work
 
 ---
 
-## 🏆 GitHub Recognition
-
-<div align="center">
-  <a href="https://github.com/saineox">
-    <img src="https://github-profile-trophy.vercel.app/?username=saineox&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies">
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/saineox">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=saineox&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/saineox">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=saineox&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
-  </a>
-</div>
-
-<br/>
+## 🏆 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/saineox">
@@ -157,4 +143,8 @@ Cleaning up unneeded snapshots and EBS volumes in AWS
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saineox&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" width="100%" />
 </div>
