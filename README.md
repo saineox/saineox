@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pradeep%20Kadam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Tooling%20Contributor&descSize=18&descAlignY=55&descColor=58A6FF" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pradeep%20Kadam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20System%20Engineer%2C%20Architect%20%40%20CGI%20%7C%20DevOps%20%7C%20Cloud%20%7C%20AI%20Tooling&descSize=16&descAlignY=55&descColor=58A6FF" alt="Header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Infrastructure+%26+Agent+Ecosystems;Open+Source+Contributor+to+7.8k%E2%AD%90+Projects;DevOps+%7C+Cloud+%7C+AI+Tooling+%7C+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Enterprise+OpenShift+%26+Kubernetes+Architect;Building+Scalable+Infrastructure+%26+Agent+Ecosystems;Open+Source+Contributor+to+7.8k%E2%AD%90+Projects;DevOps+%7C+Cloud+%7C+DevSecOps+%7C+AI+Tooling" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
+  <a href="https://www.cgi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CGI-Senior_System_Engineer,_Architect-E4002B?style=for-the-badge&logo=cgi&logoColor=white" alt="CGI">
+  </a>
   <a href="https://github.com/vudovn/ag-kit" target="_blank">
     <img src="https://img.shields.io/badge/AG_Kit_Contributor-7.8k★_Project-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="AG Kit Contributor">
   </a>
@@ -24,11 +27,22 @@
 
 ## 🚀 About Me
 
-I'm a DevOps engineer and cloud architect who blends frontend craftsmanship with infrastructure automation. With **205+ landing pages** built and production DevOps pipelines running, I bridge the gap between what users see and what powers it underneath.
+> *"Great design is invisible — it just works. Great infrastructure? It's the backbone that makes that invisibility possible."*
 
-Lately, I've been contributing to **AI agent tooling** — building skills, workflows, and orchestration systems for the next generation of coding assistants.
+I'm a **Senior System Engineer & Architect at CGI** with 6+ years bridging **UI/UX development** and **DevOps engineering** — a rare hybrid that lets me optimize both what users see *and* what powers it underneath.
 
-**Current focus**: Infrastructure as Code · AI Agent Ecosystems · Open Source
+**Impact by the numbers:**
+- 🏗️ Architecting **enterprise-grade OpenShift & Kubernetes clusters** across multi-environment deployments
+- 🚀 Designed multi-stage CI/CD pipelines (GitHub → Jenkins → Tekton → SonarQube → Trivy → ArgoCD), reducing manual errors by **30%**
+- 💰 Reduced cloud costs by **$12k/year** through localized automation & optimized resource provisioning
+- ⚡ Cut deployment cycles by **40%** and incident response times by **35%** with Prometheus/Grafana/ELK observability
+- 🎨 Built **200+ responsive templates** converting Figma designs into production-ready HTML/CSS/React
+- 🤖 Scripted **25+ automation macros** saving **1,000+ hours** in cloud compute and manual labor annually
+- 🛡️ Embedded **DevSecOps** practices — security scanning, compliance checks, vulnerability management into delivery pipelines
+
+**My Hybrid Edge**: I design interfaces users love *and* automate the infrastructure behind them. Whether scripting a deployment pipeline or building a landing page, I focus on **user experience + business impact**.
+
+**Current focus**: Enterprise Cloud Architecture · DevSecOps · AI Agent Ecosystems · Open Source
 
 ---
 
@@ -92,29 +106,45 @@ Lately, I've been contributing to **AI agent tooling** — building skills, work
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Container Orchestration
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=red-hat-open-shift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+
+### 🔄 CI/CD & DevSecOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-### 🤖 AI & Tooling
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?logo=tekton&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aquasecurity&logoColor=white)
 
-### 🌐 Frontend
+### 📊 Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elastic&logoColor=white)
+
+### 🌐 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend, Scripting & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)
 
 ---
 
