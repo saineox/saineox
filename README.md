@@ -3,19 +3,19 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Infrastructure+%26+Agent+Ecosystems;Open+Source+Contributor+to+7.8k%E2%AD%90+Projects;DevOps+%7C+Cloud+%7C+AI+Tooling+%7C+Open+Source" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/vudovn/ag-kit">
+  <a href="https://github.com/vudovn/ag-kit" target="_blank">
     <img src="https://img.shields.io/badge/AG_Kit_Contributor-7.8k★_Project-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="AG Kit Contributor">
   </a>
-  <a href="https://ag-kit.unikorn.vn/">
+  <a href="https://ag-kit.unikorn.vn/" target="_blank">
     <img src="https://img.shields.io/badge/Featured_on-ag--kit.unikorn.vn-38BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Featured on AG Kit Website">
   </a>
-  <a href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero/pull/145">
+  <a href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero/pull/145" target="_blank">
     <img src="https://img.shields.io/badge/AWS_DevOps-Contributor-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Contributor">
   </a>
 </div>
@@ -39,7 +39,7 @@ Lately, I've been contributing to **AI agent tooling** — building skills, work
 <table>
   <tr>
     <td><strong>Project</strong></td>
-    <td><a href="https://github.com/vudovn/ag-kit">vudovn/ag-kit</a> — 47 skills, 20 specialist agents, production-ready workflows for AI coding assistants</td>
+    <td><a href="https://github.com/vudovn/ag-kit" target="_blank">vudovn/ag-kit</a> — 47 skills, 20 specialist agents, production-ready workflows for AI coding assistants</td>
   </tr>
   <tr>
     <td><strong>Project Stats</strong></td>
@@ -55,25 +55,38 @@ Lately, I've been contributing to **AI agent tooling** — building skills, work
   </tr>
   <tr>
     <td><strong>PRs</strong></td>
-    <td><a href="https://github.com/vudovn/ag-kit/pull/71">#71</a> (original) → <a href="https://github.com/vudovn/ag-kit/pull/79">#79</a> (cherry-picked & merged with author credit preserved)</td>
+    <td><a href="https://github.com/vudovn/ag-kit/pull/71" target="_blank">#71</a> (original) → <a href="https://github.com/vudovn/ag-kit/pull/79" target="_blank">#79</a> (cherry-picked & merged with author credit preserved)</td>
   </tr>
   <tr>
     <td><strong>Recognition</strong></td>
-    <td>📡 Featured on <a href="https://ag-kit.unikorn.vn/">ag-kit.unikorn.vn</a> — name & profile photo highlighted in the Contributors section</td>
+    <td>📡 Featured on <a href="https://ag-kit.unikorn.vn/" target="_blank">ag-kit.unikorn.vn</a> — name & profile photo highlighted in the Contributors section</td>
   </tr>
 </table>
 
 > _"Thanks for the contribution. I handled this by cherry-picking the three commits from this PR so the original author credit is preserved."_
-> — **[@vudovn](https://github.com/vudovn)**, AG Kit maintainer
+> — **<a href="https://github.com/vudovn" target="_blank">@vudovn</a>**, AG Kit maintainer
 
 <br/>
 
 ### Other Contributions
 
-| Project | PR | Impact |
-|---------|-----|--------|
-| [aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) | [#145](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/pull/145) ✅ Merged | Added Route 53 interview Q&A, CloudFormation overview, optimized project structure |
-| [firstcontributions](https://github.com/firstcontributions/first-contributions) | [#99754](https://github.com/firstcontributions/first-contributions/pull/99754) | Added to contributors list |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>PR</th>
+    <th>Impact</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero" target="_blank">aws-devops-zero-to-hero</a></td>
+    <td><a href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero/pull/145" target="_blank">#145</a> ✅ Merged</td>
+    <td>Added Route 53 interview Q&A, CloudFormation overview, optimized project structure</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/firstcontributions/first-contributions" target="_blank">firstcontributions</a></td>
+    <td><a href="https://github.com/firstcontributions/first-contributions/pull/99754" target="_blank">#99754</a></td>
+    <td>Added to contributors list</td>
+  </tr>
+</table>
 
 ---
 
@@ -108,7 +121,7 @@ Lately, I've been contributing to **AI agent tooling** — building skills, work
 ## 🏆 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/saineox">
+  <a href="https://github.com/saineox" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saineox&theme=algolia&hide_border=true" alt="GitHub Streak">
   </a>
 </div>
@@ -117,10 +130,14 @@ Lately, I've been contributing to **AI agent tooling** — building skills, work
 
 ## ✍️ Latest Writing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Article-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/pradeeptraje_devops-infrastructureascode-terraform-activity-7175519549453201408-wPS5)
+<a href="https://www.linkedin.com/posts/pradeeptraje_devops-infrastructureascode-terraform-activity-7175519549453201408-wPS5" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn_Article-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Article">
+</a>
 Leveraging Terraform for remarkable DevOps achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Article-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/pradeeptraje_devops-aws-devops-activity-7171102299027652608-YjfX)
+<a href="https://www.linkedin.com/posts/pradeeptraje_devops-aws-devops-activity-7171102299027652608-YjfX" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn_Article-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Article">
+</a>
 Cleaning up unneeded snapshots and EBS volumes in AWS
 
 ---
@@ -128,13 +145,13 @@ Cleaning up unneeded snapshots and EBS volumes in AWS
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pradeeptraje">
+  <a href="https://www.linkedin.com/in/pradeeptraje" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/pradeep_Raje">
+  <a href="https://twitter.com/pradeep_Raje" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/saineox">
+  <a href="https://github.com/saineox" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
