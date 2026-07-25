@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 60" width="480" height="60">
+<defs>
+<style>
+@keyframes pulse {
+    0% { transform: scale(0.95); opacity: 0.8; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(0.95); opacity: 0.8; }
+}
+.dot {
+    transform-origin: 30px 30px;
+    animation: pulse 2s infinite ease-in-out;
+}
+text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; }
+</style>
+<filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#0a0e17"/><stop offset="50%" stop-color="#0d1321"/><stop offset="100%" stop-color="#0a0e17"/>
+</linearGradient>
+</defs>
+<rect width="480" height="60" rx="30" fill="url(#bg)" stroke="#1e2d4a" stroke-width="1.5"/>
+<circle cx="30" cy="30" r="8" fill="#00e5a0" filter="url(#glow)" class="dot"/>
+<circle cx="30" cy="30" r="4" fill="#ffffff"/>
+<text x="60" y="36" font-size="16" fill="#00e5a0" font-weight="bold" filter="url(#glow)">Available for Remote — US/UK Roles</text>
+<text x="60" y="36" font-size="16" fill="#e6edf3" font-weight="bold">Available for Remote — US/UK Roles</text>
+</svg>

@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 620" width="1280" height="620" role="img" aria-label="Pradeep Kadam - Senior Cloud Architect">
+<title>Pradeep Kadam — Senior Cloud Architect</title>
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes popIn{0%{opacity:0;transform:translateY(14px) scale(.7)}70%{opacity:1;transform:translateY(-3px) scale(1.06)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes twinkle{0%,100%{opacity:0;transform:scale(.4)}50%{opacity:1;transform:scale(1)}}
+@keyframes heartBeat{0%,100%{transform:scale(1)}12%{transform:scale(1.25)}24%{transform:scale(1)}36%{transform:scale(1.18)}48%{transform:scale(1)}}
+@keyframes rise{0%{transform:translateY(0);opacity:0}12%{opacity:.55}88%{opacity:.55}100%{transform:translateY(-46px);opacity:0}}
+.ltr{opacity:0;animation:popIn .5s cubic-bezier(.2,.8,.3,1.3) forwards;transform-box:fill-box;transform-origin:center bottom}
+.cur{animation:blink 1s step-end infinite}
+.fl{animation:floaty 5s ease-in-out infinite}
+.tw{transform-box:fill-box;transform-origin:center;animation:twinkle 2.6s ease-in-out infinite}
+.hb{transform-box:fill-box;transform-origin:center;animation:heartBeat 2.2s ease-in-out infinite}
+.rp{animation:rise linear infinite}
+.fade{opacity:0;animation:fadeIn .5s ease forwards}
+]]></style>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#f6f8fa"/><stop offset="50%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f6f8fa"/>
+</linearGradient>
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#0969da;#116329;#b35900;#0969da" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="50%"><animate attributeName="stop-color" values="#116329;#b35900;#0969da;#116329" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#b35900;#0969da;#116329;#b35900" dur="7s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="borderg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#0969da" stop-opacity=".35"/>
+  <stop offset="50%" stop-color="#116329" stop-opacity=".3"/>
+  <stop offset="100%" stop-color="#b35900" stop-opacity=".35"/>
+</linearGradient>
+<radialGradient id="orbC"><stop offset="0%" stop-color="#0969da" stop-opacity=".08"/><stop offset="100%" stop-color="#0969da" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbG"><stop offset="0%" stop-color="#116329" stop-opacity=".08"/><stop offset="100%" stop-color="#116329" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbY"><stop offset="0%" stop-color="#b35900" stop-opacity=".05"/><stop offset="100%" stop-color="#b35900" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="hex" width="30" height="52" patternUnits="userSpaceOnUse">
+  <path d="M15 0 L30 8.66 L30 26 L15 34.64 L0 26 L0 8.66 Z" fill="none" stroke="rgba(9,105,218,0.05)" stroke-width="1"/>
+  <path d="M15 52 L30 43.34 L30 26" fill="none" stroke="rgba(9,105,218,0.05)" stroke-width="1"/>
+  <path d="M0 26 L0 43.34 L15 52" fill="none" stroke="rgba(9,105,218,0.05)" stroke-width="1"/>
+</pattern>
+<clipPath id="cPrompt"><rect x="48" y="48" width="0" height="32"><animate attributeName="width" from="0" to="480" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cHi"><rect x="48" y="86" width="0" height="42"><animate attributeName="width" from="0" to="200" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;550;550;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r2"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;550;550;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r3"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;550;550;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r4"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;550;550;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="qReveal"><rect x="48" y="262" width="0" height="80"><animate attributeName="width" from="0" to="420" dur=".7s" begin="3.2s" fill="freeze"/></rect></clipPath>
+</defs>
+
+<rect width="1280" height="620" rx="16" fill="url(#bg)"/>
+<rect width="1280" height="620" rx="16" fill="url(#hex)"/>
+<circle cx="200" cy="200" r="250" fill="url(#orbC)"><animate attributeName="r" values="250;280;250" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="1000" cy="450" r="300" fill="url(#orbG)"><animate attributeName="r" values="300;330;300" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="150" r="200" fill="url(#orbY)"><animate attributeName="r" values="200;225;200" dur="5.5s" repeatCount="indefinite"/></circle>
+<rect x="1" y="1" width="1278" height="618" rx="16" fill="none" stroke="url(#borderg)" stroke-width="1.5"/>
+
+<!-- Circuit paths -->
+<path d="M 0 100 L 150 100 L 200 150 L 300 150" fill="none" stroke="#0969da" stroke-width="1" stroke-dasharray="5 5" opacity="0.3"/>
+<path d="M 1280 500 L 1100 500 L 1050 450 L 900 450" fill="none" stroke="#116329" stroke-width="1" stroke-dasharray="5 5" opacity="0.3"/>
+
+<!-- Particles -->
+<circle class="rp" cx="140" cy="620" r="1.4" fill="#0969da" style="animation-duration:5s"/>
+<circle class="rp" cx="420" cy="620" r="1.1" fill="#116329" style="animation-duration:6s;animation-delay:1s"/>
+<circle class="rp" cx="620" cy="620" r="1.3" fill="#b35900" style="animation-duration:4.6s;animation-delay:2s"/>
+<circle class="rp" cx="1180" cy="620" r="1.2" fill="#0969da" style="animation-duration:5.4s;animation-delay:.6s"/>
+<circle class="rp" cx="800" cy="620" r="1" fill="#116329" style="animation-duration:6.4s;animation-delay:1.6s"/>
+
+<!-- Sparkles -->
+<g class="tw" style="animation-delay:.4s"><path d="M470 120l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#0969da"/></g>
+<g class="tw" style="animation-delay:1.5s"><path d="M880 120l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#b35900"/></g>
+<g class="tw" style="animation-delay:2.6s"><path d="M1145 250l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#116329"/></g>
+
+<!-- Terminal Prompt -->
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="16"><tspan fill="#116329" font-weight="bold">pradeep@cloud-architect</tspan><tspan fill="#57606a">:~$ </tspan><tspan fill="#24292f">cat </tspan><tspan fill="#0969da">PROFILE.md</tspan></text>
+<rect x="375" y="54" width="9" height="18" fill="#116329" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.35s"/></rect>
+
+<!-- Hi, I'm -->
+<text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#24292f">Hi, I'm 👋</text>
+
+<!-- Name -->
+<text x="48" y="170" font-size="64" font-weight="900" fill="url(#nameg)">
+  <tspan class="ltr" style="animation-delay:1.60s">P</tspan>
+  <tspan class="ltr" style="animation-delay:1.65s">r</tspan>
+  <tspan class="ltr" style="animation-delay:1.70s">a</tspan>
+  <tspan class="ltr" style="animation-delay:1.75s">d</tspan>
+  <tspan class="ltr" style="animation-delay:1.80s">e</tspan>
+  <tspan class="ltr" style="animation-delay:1.85s">e</tspan>
+  <tspan class="ltr" style="animation-delay:1.90s">p</tspan>
+  <tspan class="ltr" style="animation-delay:1.95s"> </tspan>
+  <tspan class="ltr" style="animation-delay:2.00s">K</tspan>
+  <tspan class="ltr" style="animation-delay:2.05s">a</tspan>
+  <tspan class="ltr" style="animation-delay:2.10s">d</tspan>
+  <tspan class="ltr" style="animation-delay:2.15s">a</tspan>
+  <tspan class="ltr" style="animation-delay:2.20s">m</tspan>
+</text>
+<g class="hb" style="animation-delay:3s" transform="translate(560, 115) scale(0.6)">
+  <path d="M 50 15 C 30 15 15 30 15 50 C 15 80 50 110 50 110 C 50 110 85 80 85 50 C 85 30 70 15 50 15 Z" fill="#0969da" opacity=".9"/>
+</g>
+
+<!-- Roles -->
+<text clip-path="url(#r1)" x="48" y="235" font-size="20" font-weight="bold" fill="#0969da">&lt; Senior Cloud Architect /&gt;</text>
+<text clip-path="url(#r2)" x="48" y="235" font-size="20" font-weight="bold" fill="#0969da">&lt; Enterprise OpenShift &amp; K8s Architect /&gt;</text>
+<text clip-path="url(#r3)" x="48" y="235" font-size="20" font-weight="bold" fill="#0969da">&lt; Platform Engineer | DevSecOps | SRE /&gt;</text>
+<text clip-path="url(#r4)" x="48" y="235" font-size="20" font-weight="bold" fill="#0969da">&lt; DevOps Architect | AI Agent Ecosystems /&gt;</text>
+<rect x="48" y="215" width="2.5" height="24" fill="#0969da" opacity="0"><animate attributeName="opacity" values="1;0" dur=".8s" repeatCount="indefinite" begin="2.9s"/></rect>
+
+<!-- Quote box -->
+<g clip-path="url(#qReveal)">
+  <rect x="48" y="270" width="380" height="72" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="48" y="274" width="4" height="64" rx="2" fill="#0969da"/>
+  <text x="76" y="300" font-size="16" fill="#24292f">"Great infrastructure is invisible —</text>
+  <text x="76" y="326" font-size="16"><tspan fill="#24292f"> it </tspan><tspan fill="#116329" font-weight="bold">just works</tspan><tspan fill="#24292f">."</tspan></text>
+</g>
+
+<!-- Tech highlights -->
+<text class="fade" x="48" y="390" font-size="16" fill="#57606a" font-weight="bold" style="animation-delay:4s">🧩 Core Stack</text>
+
+<g class="fade" style="animation-delay:4.2s">
+  <rect x="48" y="405" width="80" height="28" rx="14" fill="rgba(9,105,218,0.1)" stroke="#0969da" stroke-width="1"/>
+  <text x="88" y="424" text-anchor="middle" font-size="13" fill="#0969da" font-weight="bold">K8s</text>
+</g>
+<g class="fade" style="animation-delay:4.3s">
+  <rect x="138" y="405" width="80" height="28" rx="14" fill="rgba(179,89,0,0.1)" stroke="#b35900" stroke-width="1"/>
+  <text x="178" y="424" text-anchor="middle" font-size="13" fill="#b35900" font-weight="bold">AWS</text>
+</g>
+<g class="fade" style="animation-delay:4.4s">
+  <rect x="228" y="405" width="110" height="28" rx="14" fill="rgba(17,99,41,0.1)" stroke="#116329" stroke-width="1"/>
+  <text x="283" y="424" text-anchor="middle" font-size="13" fill="#116329" font-weight="bold">OpenShift</text>
+</g>
+<g class="fade" style="animation-delay:4.5s">
+  <rect x="348" y="405" width="90" height="28" rx="14" fill="rgba(9,105,218,0.1)" stroke="#0969da" stroke-width="1"/>
+  <text x="393" y="424" text-anchor="middle" font-size="13" fill="#0969da" font-weight="bold">Docker</text>
+</g>
+<g class="fade" style="animation-delay:4.6s">
+  <rect x="448" y="405" width="110" height="28" rx="14" fill="rgba(179,89,0,0.1)" stroke="#b35900" stroke-width="1"/>
+  <text x="503" y="424" text-anchor="middle" font-size="13" fill="#b35900" font-weight="bold">Terraform</text>
+</g>
+<g class="fade" style="animation-delay:4.7s">
+  <rect x="48" y="445" width="90" height="28" rx="14" fill="rgba(17,99,41,0.1)" stroke="#116329" stroke-width="1"/>
+  <text x="93" y="464" text-anchor="middle" font-size="13" fill="#116329" font-weight="bold">Jenkins</text>
+</g>
+<g class="fade" style="animation-delay:4.8s">
+  <rect x="148" y="445" width="80" height="28" rx="14" fill="rgba(9,105,218,0.1)" stroke="#0969da" stroke-width="1"/>
+  <text x="188" y="464" text-anchor="middle" font-size="13" fill="#0969da" font-weight="bold">ArgoCD</text>
+</g>
+<g class="fade" style="animation-delay:4.9s">
+  <rect x="238" y="445" width="80" height="28" rx="14" fill="rgba(179,89,0,0.1)" stroke="#b35900" stroke-width="1"/>
+  <text x="278" y="464" text-anchor="middle" font-size="13" fill="#b35900" font-weight="bold">Python</text>
+</g>
+<g class="fade" style="animation-delay:5.0s">
+  <rect x="328" y="445" width="70" height="28" rx="14" fill="rgba(17,99,41,0.1)" stroke="#116329" stroke-width="1"/>
+  <text x="363" y="464" text-anchor="middle" font-size="13" fill="#116329" font-weight="bold">Bash</text>
+</g>
+<g class="fade" style="animation-delay:5.1s">
+  <rect x="408" y="445" width="90" height="28" rx="14" fill="rgba(9,105,218,0.1)" stroke="#0969da" stroke-width="1"/>
+  <text x="453" y="464" text-anchor="middle" font-size="13" fill="#0969da" font-weight="bold">GitOps</text>
+</g>
+
+<!-- Big Impact Illustration Right side -->
+<g class="fade" style="animation-delay:2s" transform="translate(950, 250)">
+    <!-- Central Node -->
+    <circle cx="150" cy="100" r="40" fill="#ffffff" stroke="#0969da" stroke-width="4"/>
+    <text x="150" y="106" text-anchor="middle" font-size="18" fill="#0969da" font-weight="bold">K8s</text>
+    
+    <!-- Node 1 -->
+    <path d="M 150 60 L 80 0" stroke="#d0d7de" stroke-width="2" />
+    <circle cx="80" cy="0" r="25" fill="#ffffff" stroke="#b35900" stroke-width="3"/>
+    <text x="80" y="5" text-anchor="middle" font-size="14" fill="#b35900">AWS</text>
+    
+    <!-- Node 2 -->
+    <path d="M 150 60 L 220 0" stroke="#d0d7de" stroke-width="2" />
+    <circle cx="220" cy="0" r="25" fill="#ffffff" stroke="#116329" stroke-width="3"/>
+    <text x="220" y="5" text-anchor="middle" font-size="12" fill="#116329">CI/CD</text>
+
+    <!-- Node 3 -->
+    <path d="M 110 100 L 40 100" stroke="#d0d7de" stroke-width="2" />
+    <circle cx="40" cy="100" r="25" fill="#ffffff" stroke="#0969da" stroke-width="3"/>
+    <text x="40" y="105" text-anchor="middle" font-size="14" fill="#0969da">Git</text>
+
+    <!-- Node 4 -->
+    <path d="M 190 100 L 260 100" stroke="#d0d7de" stroke-width="2" />
+    <circle cx="260" cy="100" r="25" fill="#ffffff" stroke="#b35900" stroke-width="3"/>
+    <text x="260" y="105" text-anchor="middle" font-size="14" fill="#b35900">Sec</text>
+    
+    <!-- Node 5 -->
+    <path d="M 150 140 L 150 200" stroke="#d0d7de" stroke-width="2" />
+    <circle cx="150" cy="200" r="25" fill="#ffffff" stroke="#116329" stroke-width="3"/>
+    <text x="150" y="205" text-anchor="middle" font-size="12" fill="#116329">Logs</text>
+    
+    <circle cx="150" cy="100" r="70" fill="none" stroke="#0969da" stroke-width="1" stroke-dasharray="10 10">
+        <animateTransform attributeName="transform" type="rotate" from="0 150 100" to="360 150 100" dur="20s" repeatCount="indefinite"/>
+    </circle>
+</g>
+
+</svg>
