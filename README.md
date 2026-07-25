@@ -20,7 +20,7 @@
 
 > *"Great design is invisible — it just works. Great infrastructure? It's the backbone that makes that invisibility possible."*
 
-I'm a **Senior System Engineer & Architect at CGI** with 6+ years bridging **UI/UX development** and **DevOps engineering** — a rare hybrid that lets me optimize both what users see *and* what powers it underneath.
+I'm a **Senior System Engineer & Architect at CGI** with 8+ years bridging **UI/UX development** and **DevOps engineering** — a rare hybrid that lets me optimize both what users see *and* what powers it underneath.
 
 **My Hybrid Edge**: I design interfaces users love *and* automate the infrastructure behind them. Whether scripting a deployment pipeline or building a landing page, I focus on **user experience + business impact**.
 
@@ -47,7 +47,7 @@ I'm a **Senior System Engineer & Architect at CGI** with 6+ years bridging **UI/
 <br/>
 
 <div align="center">
-  <img src="./pradeep-impact.svg" alt="Impact Dashboard - 6+ Years, $12k Saved, 40% Faster Deploys" width="100%" />
+  <img src="./pradeep-impact.svg" alt="Impact Dashboard - 8+ Years, $12k Saved, 40% Faster Deploys" width="100%" />
 </div>
 
 <br/>

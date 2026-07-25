@@ -16,8 +16,8 @@ text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica
 
 <!-- Block 1 -->
 <g class="fade" style="animation-delay: 0.2s">
-<text x="136" y="45" text-anchor="middle" font-size="20" fill="#00d4ff" font-weight="bold" filter="url(#glow)">6+ Years</text>
-<text x="136" y="45" text-anchor="middle" font-size="20" fill="#ffffff" font-weight="bold">6+ Years</text>
+<text x="136" y="45" text-anchor="middle" font-size="20" fill="#00d4ff" font-weight="bold" filter="url(#glow)">8+ Years</text>
+<text x="136" y="45" text-anchor="middle" font-size="20" fill="#ffffff" font-weight="bold">8+ Years</text>
 <text x="136" y="70" text-anchor="middle" font-size="14" fill="#8b949e">Experience</text>
 </g>
 
