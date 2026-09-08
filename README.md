@@ -63,7 +63,7 @@ I'm a **Senior System Engineer & Architect at CGI** with 8+ years bridging **UI/
   </tr>
   <tr>
     <td><strong>Project Stats</strong></td>
-    <td>⭐ 7.8k stars · 👁️ 118 watching · 🍴 1.5k forks</td>
+    <td>⭐ 8.2k stars · 👁️ 118 watching · 🍴 1.5k forks</td>
   </tr>
   <tr>
     <td><strong>My Role</strong></td>
